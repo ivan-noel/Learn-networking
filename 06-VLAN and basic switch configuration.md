@@ -1,6 +1,6 @@
 # Cisco Networking Learning — Day 6
 
-> Learning Cisco Networking from 0  
+>
 > Day 6 — VLAN & Basic Switch Configuration
 
 ## 1. Tujuan Day 6
