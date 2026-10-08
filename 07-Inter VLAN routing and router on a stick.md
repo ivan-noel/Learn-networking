@@ -753,7 +753,7 @@ PC0 mengetahui bahwa tujuan tersebut bukan bagian dari:
 192.168.10.0/24
 ```
 
-Maka PC0 mengirim traffic ke:
+Maka PC0 mengirim traffic ke dalam:
 
 ```text
 Default Gateway
